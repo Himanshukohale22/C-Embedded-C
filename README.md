@@ -1,8 +1,8 @@
 # Study guide for C/Embedded c 
 
-![image](https://github.com/Himanshukohale22/C-Embedded-C/assets/114358863/a529b1ce-1142-4684-b4b7-dfe88f0e97fd)
+![image](https://github.com/Himanshukohale22/C-Embedded-C/assets/114358863/a529b1ce-1142-4684-b4b7-dfe88f0e97fd)  ||  ![image](https://github.com/Himanshukohale22/C-Embedded-C/assets/114358863/b58ed7d4-f040-408b-ac7a-c79a628fd4db)
 
-![image](https://github.com/Himanshukohale22/C-Embedded-C/assets/114358863/b58ed7d4-f040-408b-ac7a-c79a628fd4db)
+
 
 
 
